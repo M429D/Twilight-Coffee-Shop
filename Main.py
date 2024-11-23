@@ -291,7 +291,7 @@ def home_page():
     if st.session_state['logged_in'] and not st.session_state['is_admin']:
 
         # Sidebar navigation
-        st.sidebar.image("resource/LOGO PNG.png", width=100)
+        st.sidebar.image("Resource/LOGO PNG.png", width=100)
         st.sidebar.title("More Exploration")
         
         # Sidebar options
