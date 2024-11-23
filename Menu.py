@@ -19,16 +19,16 @@ def display_menu():
 
     # Menu items with images
     beverages = {
-        "Americano": ("RM 11.00", "resource/americano.png"),
-        "Cappuccino": ("RM 12.00", "resource/cappucino.jpg"),
-        "Latte": ("RM 12.00", "resource/latte.jpg"),
-        "Caramel Macchiato": ("RM 14.00", "resource/caramelMacchiato.jpg")
+        "Americano": ("RM 11.00", "Resource/americano.png"),
+        "Cappuccino": ("RM 12.00", "Resource/cappucino.jpg"),
+        "Latte": ("RM 12.00", "Resource/latte.jpg"),
+        "Caramel Macchiato": ("RM 14.00", "Resource/caramelMacchiato.jpg")
     }
 
     food_items = {
-        "Sandwich": ("RM 11.00", "resource/sandwich.jpg"),
-        "Pasta": ("RM 14.00", "resource/pasta.jpg"),
-        "Egg Tart":("RM 6.00", "resource/eggTart.jpg")
+        "Sandwich": ("RM 11.00", "Resource/sandwich.jpg"),
+        "Pasta": ("RM 14.00", "Resource/pasta.jpg"),
+        "Egg Tart":("RM 6.00", "Resource/eggTart.jpg")
     }
 
     # Section: Food
