@@ -1,0 +1,53 @@
+Order Number,Item,Quantity,Price,Time,Status,Username
+939,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 01:59:08,Received,carmen
+939,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 01:59:08,Processing,carmen
+939,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 01:59:08,Completed,carmen
+347,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 12:12:59,Received,hari24
+347,Pasta,1,13.3,2024-11-23 12:12:59,Received,hari24
+347,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 12:12:59,Received,hari24
+347,Pasta,1,13.3,2024-11-23 12:12:59,Received,hari24
+846,"Caramel Macchiato (Small, Hot, No Milk or Sugar Add-ons)",1,13.3,2024-11-23 12:15:09,Received,hari24
+846,Egg Tart,1,5.7,2024-11-23 12:15:09,Received,hari24
+347,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 12:12:59,Processing,hari24
+347,Pasta,1,13.3,2024-11-23 12:12:59,Processing,hari24
+846,"Caramel Macchiato (Small, Hot, No Milk or Sugar Add-ons)",1,13.3,2024-11-23 12:15:09,Received,hari24
+846,Egg Tart,1,5.7,2024-11-23 12:15:09,Received,hari24
+347,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.4,2024-11-23 12:12:59,Completed,hari24
+347,Pasta,1,13.3,2024-11-23 12:12:59,Completed,hari24
+846,"Caramel Macchiato (Small, Hot, No Milk or Sugar Add-ons)",1,13.3,2024-11-23 12:15:09,Received,hari24
+846,Egg Tart,1,5.7,2024-11-23 12:15:09,Received,hari24
+846,"Caramel Macchiato (Small, Hot, No Milk or Sugar Add-ons)",1,13.3,2024-11-23 12:15:09,Processing,hari24
+846,Egg Tart,1,5.7,2024-11-23 12:15:09,Processing,hari24
+694,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.3,2024-11-23 13:34:46,Received,hari24
+694,Pasta,1,13.3,2024-11-23 13:34:46,Received,hari24
+694,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.3,2024-11-23 13:34:46,Received,hari24
+694,Pasta,1,13.3,2024-11-23 13:34:46,Received,hari24
+344,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons, Extra Sugar)",1,11.64,2024-11-23 13:35:31,Received,hari24
+344,Sandwich,1,10.45,2024-11-23 13:35:31,Received,hari24
+694,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.3,2024-11-23 13:34:46,Received,hari24
+694,Pasta,1,13.3,2024-11-23 13:34:46,Received,hari24
+344,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons, Extra Sugar)",1,11.64,2024-11-23 13:35:31,Completed,hari24
+344,Sandwich,1,10.45,2024-11-23 13:35:31,Completed,hari24
+694,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.3,2024-11-23 13:34:46,Processing,hari24
+694,Pasta,1,13.3,2024-11-23 13:34:46,Processing,hari24
+694,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,11.3,2024-11-23 13:34:46,Completed,hari24
+694,Pasta,1,13.3,2024-11-23 13:34:46,Completed,hari24
+559,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,10.9,2024-11-23 14:18:13,Received,hari24
+559,Pasta,1,13.3,2024-11-23 14:18:13,Received,hari24
+559,"Latte (Small, Hot, No Milk or Sugar Add-ons)",1,10.9,2024-11-23 14:18:13,Cancelled,hari24
+559,Pasta,1,13.3,2024-11-23 14:18:13,Cancelled,hari24
+857,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons)",1,11.39,2024-11-23 18:09:05,Received,M429D
+857,"Latte (Small, Hot, No Milk or Sugar Add-ons)",3,34.19,2024-11-23 18:09:05,Received,M429D
+857,Sandwich,2,20.86,2024-11-23 18:09:05,Received,M429D
+857,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons)",1,11.39,2024-11-23 18:09:05,Received,M429D
+857,"Latte (Small, Hot, No Milk or Sugar Add-ons)",3,34.19,2024-11-23 18:09:05,Received,M429D
+857,Sandwich,2,20.86,2024-11-23 18:09:05,Received,M429D
+857,"Cappuccino (Small, Hot, No Milk or Sugar Add-ons)",1,11.39,2024-11-23 18:09:05,Received,M429D
+857,"Latte (Small, Hot, No Milk or Sugar Add-ons)",3,34.19,2024-11-23 18:09:05,Received,M429D
+857,Sandwich,2,20.86,2024-11-23 18:09:05,Received,M429D
+114,"Americano (Small, Hot, No Milk or Sugar Add-ons)",1,10.45,2024-11-23 18:24:58,Received,020429
+114,Sandwich,1,10.45,2024-11-23 18:24:58,Received,020429
+114,"Americano (Small, Hot, No Milk or Sugar Add-ons)",1,10.45,2024-11-23 18:24:58,Processing,020429
+114,Sandwich,1,10.45,2024-11-23 18:24:58,Processing,020429
+114,"Americano (Small, Hot, No Milk or Sugar Add-ons)",1,10.45,2024-11-23 18:24:58,Completed,020429
+114,Sandwich,1,10.45,2024-11-23 18:24:58,Completed,020429

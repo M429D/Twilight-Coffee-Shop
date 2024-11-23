@@ -1,0 +1,275 @@
+[
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "hi\nlike it",
+        "date": "2024-11-13 02:50:40"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 22:17:25"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 23:03:39"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 23:04:11"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 23:17:59"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 23:18:35"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 23:18:40"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-16 23:52:07"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-17 00:39:09"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-17 01:37:47"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-17 01:38:02"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-17 02:18:13"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-17 02:22:53"
+    },
+    {
+        "food_quality_rating": 5,
+        "service_rating": 5,
+        "uiux_rating": 5,
+        "comments": "",
+        "date": "2024-11-19 23:19:23"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-20 03:05:11"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-20 03:05:11"
+    },
+    {
+        "food_quality_rating": 5,
+        "service_rating": 4,
+        "uiux_rating": 5,
+        "comments": "",
+        "date": "2024-11-20 09:25:48"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 5,
+        "uiux_rating": 4,
+        "comments": "",
+        "date": "2024-11-20 09:36:04"
+    },
+    {
+        "food_quality_rating": 5,
+        "service_rating": 4,
+        "uiux_rating": 5,
+        "comments": "",
+        "date": "2024-11-20 11:31:20"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 5,
+        "uiux_rating": 4,
+        "comments": "",
+        "date": "2024-11-20 12:18:06"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 4,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-20 12:20:21"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 5,
+        "uiux_rating": 4,
+        "comments": "",
+        "date": "2024-11-20 12:27:54"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 5,
+        "uiux_rating": 4,
+        "comments": "",
+        "date": "2024-11-20 12:39:59"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-20 13:17:07"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-21 01:22:25"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-21 10:29:51"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-21 10:34:35"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-21 12:04:24"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-21 22:11:53"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-22 08:35:51"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-22 08:45:32"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-22 09:07:57"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-22 09:11:42"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-23 01:59:50"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 4,
+        "uiux_rating": 5,
+        "comments": "",
+        "date": "2024-11-23 12:16:39"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 5,
+        "uiux_rating": 4,
+        "comments": "",
+        "date": "2024-11-23 13:35:47"
+    },
+    {
+        "food_quality_rating": 4,
+        "service_rating": 3,
+        "uiux_rating": 5,
+        "comments": "",
+        "date": "2024-11-23 14:18:21"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "haha",
+        "date": "2024-11-23 18:18:05"
+    },
+    {
+        "food_quality_rating": 3,
+        "service_rating": 3,
+        "uiux_rating": 3,
+        "comments": "",
+        "date": "2024-11-23 18:27:20"
+    }
+]
