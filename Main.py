@@ -18,7 +18,7 @@ from datetime import datetime
 EXCEL_FILE = 'TWILIGHT_USERS.xlsx'
 ADMIN_USERNAME = 'admin'  # Define admin username
 ADMIN_PASSWORD = 'admin321'  # Define admin password
-LOCAL_ICON_PATH = 'resource/TwilightIcon.ico'
+LOCAL_ICON_PATH = 'Resource/TwilightIcon.ico'
 
 # Initialize Excel file
 def init_excel():
@@ -343,11 +343,11 @@ def home_page():
 
             # Define team members with name, ID, and role
             team_members = [
-                {"name": "Muhammad bin Hassan Ghani", "id": "20001468", "role": "Chief Executive Officer (CEO)", "photo": "resource/Muhd.jpg"},
-                {"name": "Harivarma Subramaniam", "id": "20001506", "role": "Chief Technical Officer (CTO)", "photo": "resource/Hari.jpg"},
-                {"name": "Angeline Chong Vun Yiing", "id": "21000941", "role": "Chief Finance Officer (CFO)", "photo": "resource/Ang.jpg"},
-                {"name": "Loh Jia Yi", "id": "21001052", "role": "Chief Marketing Officer (CMO)", "photo": "resource/JiaYi.jpg"},
-                {"name": "Amalin Liyana", "id": "20001473", "role": "Chief Operating Officer (COO)", "photo": "resource/Amalin.jpg"},
+                {"name": "Muhammad bin Hassan Ghani", "id": "20001468", "role": "Chief Executive Officer (CEO)", "photo": "Resource/Muhd.jpg"},
+                {"name": "Harivarma Subramaniam", "id": "20001506", "role": "Chief Technical Officer (CTO)", "photo": "Resource/Hari.jpg"},
+                {"name": "Angeline Chong Vun Yiing", "id": "21000941", "role": "Chief Finance Officer (CFO)", "photo": "Resource/Ang.jpg"},
+                {"name": "Loh Jia Yi", "id": "21001052", "role": "Chief Marketing Officer (CMO)", "photo": "Resource/JiaYi.jpg"},
+                {"name": "Amalin Liyana", "id": "20001473", "role": "Chief Operating Officer (COO)", "photo": "Resource/Amalin.jpg"},
             ]
 
             # Set the fixed height for the images
@@ -420,7 +420,7 @@ def admin_dashboard():
     if st.session_state['logged_in'] and st.session_state['is_admin']:
 
         # Sidebar navigation
-        st.sidebar.image("resource/LOGO PNG.png", width=100)
+        st.sidebar.image("Resource/LOGO PNG.png", width=100)
         st.sidebar.title("More Exploration")
         
         # Sidebar options
