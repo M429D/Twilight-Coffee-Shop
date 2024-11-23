@@ -49,7 +49,7 @@ def user_home():
     # Additional content that loads immediately
     with st.container():
         st.write("### What Makes Us Special")
-        st.image("resource/interior.jpg", caption="A cozy environment to enjoy coffee", use_column_width=True)
+        st.image("Resource/interior.jpg", caption="A cozy environment to enjoy coffee", use_column_width=True)
 
         st.write(
             """
@@ -64,15 +64,15 @@ def user_home():
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            st.image("resource/pasta.jpg", caption="Pasta", use_column_width=True)
+            st.image("Resource/pasta.jpg", caption="Pasta", use_column_width=True)
             st.write("Rich and creamy, our signature dish.")
 
         with col2:
-            st.image("resource/caramelMacchiato.jpg", caption="Caramel Macchiato", use_column_width=True)
+            st.image("Resource/caramelMacchiato.jpg", caption="Caramel Macchiato", use_column_width=True)
             st.write("A sweet, velvety coffee. Available Hot/Cold.")
 
         with col3:
-            st.image("resource/eggTart.jpg", caption="Egg Tart", use_column_width=True)
+            st.image("Resource/eggTart.jpg", caption="Egg Tart", use_column_width=True)
             st.write("A classic favorite baked fresh daily.")
 
         st.markdown("---")
