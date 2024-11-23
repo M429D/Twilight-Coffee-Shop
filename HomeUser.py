@@ -18,10 +18,10 @@ def user_home():
 
     # Banner paths
     banner_images = [
-        "resource/banner1.jpg",
-        "resource/banner2.jpg",
-        "resource/banner3.jpg",
-        "resource/banner4.jpg"
+        "Resource/banner1.jpg",
+        "Resource/banner2.jpg",
+        "Resource/banner3.jpg",
+        "Resource/banner4.jpg"
     ]
 
     # Initialize session state for current image index
